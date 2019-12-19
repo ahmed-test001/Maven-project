@@ -6,5 +6,9 @@ public class TestMaven {
 	public void test() {
 		System.out.println("...Hello Maven !!!!");
 	}
+	@Test
+	public void testtwo() {
+		System.out.println("...Hello two !!!!");
+	}
 
 }
