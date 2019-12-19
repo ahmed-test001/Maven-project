@@ -10,5 +10,9 @@ public class TestMaven {
 	public void testtwo() {
 		System.out.println("...Hello two !!!!");
 	}
+	@Test
+	public void testthree() {
+		System.out.println("...Hello three !!!!");
+	}
 
 }
